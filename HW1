@@ -1,0 +1,6 @@
+Adding screenshot to file:
+
+1. Use an "img" html tag with a link to "Screenshot.png"
+2. Move Screenshot.png to the folder with your hw01 index.html
+3. Upload screenshot to the server using the "scp" command (google this)
+4. Download /etc/nginx/sites-available/default and /etc/nginx/sites-available/abdul.gold using scp, upload those files to GitHub
